@@ -1,4 +1,4 @@
-This is for all versions of the O.MG Cable, O.MG Adapter, and O.MG Plug
+oThis is for all versions of the O.MG Cable, O.MG Adapter, and O.MG Plug
 
 
 
